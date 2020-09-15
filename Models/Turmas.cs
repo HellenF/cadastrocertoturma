@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace escola.Models
+namespace cadastrocertoturma.Models
 
 {
 

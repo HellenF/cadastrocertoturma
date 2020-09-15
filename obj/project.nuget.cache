@@ -1,15 +1,35 @@
 {
   "version": 2,
-  "dgSpecHash": "P6jpM8XKlG0cgHb3M+GxJduDQl0/ieqIgddtZ40KFAsWt2MDqGc1rAzf9m64ed0dJThtmu9BxF3VAiibj65IIg==",
+  "dgSpecHash": "ieW9EifTK6qQmZCU6wDrlTofSVLKYqDAFyNpyAnZtQBsmSUgVcqhaPQHkyAVP6QZDzkHnLkfhZ6A6hrrR3R+lw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HellenFerreiraCarnei\\cadastrocertoturma\\cadastrocertoturma.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.8\\microsoft.entityframeworkcore.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.8\\microsoft.entityframeworkcore.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.8\\microsoft.entityframeworkcore.analyzers.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.8\\microsoft.entityframeworkcore.inmemory.3.1.8.nupkg.sha512",
     "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.8\\microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.8\\microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
     "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.0\\swashbuckle.aspnetcore.5.6.0.nupkg.sha512",
     "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.0\\swashbuckle.aspnetcore.swagger.5.6.0.nupkg.sha512",
     "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.0\\swashbuckle.aspnetcore.swaggergen.5.6.0.nupkg.sha512",
-    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.0\\swashbuckle.aspnetcore.swaggerui.5.6.0.nupkg.sha512"
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.0\\swashbuckle.aspnetcore.swaggerui.5.6.0.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\HellenFerreiraCarnei\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

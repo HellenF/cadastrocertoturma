@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.VisualBasic;
 
-namespace escola.Models
+namespace cadastrocertoturma.Models
 {
     public class Aluno
     {
