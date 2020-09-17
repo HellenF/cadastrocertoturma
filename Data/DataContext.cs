@@ -17,5 +17,6 @@ namespace cadastrocertoturma.Data
 
         public DbSet<Aluno> Aluno{ get; set; }
         public object Alunos { get; internal set; }
+        public object Categories { get; internal set; }
     }
 }
